@@ -1,0 +1,69 @@
+.profile {
+  border-radius: 100%
+}
+body {
+  background-color: #EAF6F6;
+}
+h1 {
+  color: crimson; font-style: oblique; font-size: 30px
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+.Name {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: italic;
+}
+.pr {
+  color: blue
+}
+.va {
+  color: teal
+}
+.r {
+  color: pink
+}
+.wb {
+  color: gold
+}
+.w {
+  background-color: #EAF6F6; border-radius: 100%
+}
+.f {
+  background-color: #EAF6F6; border-radius: 100%
+}
+.i {
+background-color: #EAF6F6; border-radius: 100%
+}
+.t {
+  background-color: #EAF6F6; border-radius: 100%
+}
+/**************************** my about page css ***************************/
+.about {
+  background-color: darkslategray;
+}
+/************************* my Education page css ********************/
+.education {
+  background-color: darkslategray;
+position:fixed;
+}
+.Hedu {
+  font-size: 35px; font-display: fallback;
+}
+.Etable {
+  font-size: 25px;
+}
+/********************** My Contact me page **********************/
+.contactme {
+  background-color: darkslategray;
+}
+.contactmeh2 {
+  color: white;
+}
+.contactmeh3 {
+  color: green; font-size: 25px;
+}
